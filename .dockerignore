@@ -1,0 +1,9 @@
+.env
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.mypy_cache
+uploads
+sql_app.db
+alembic/versions/__pycache__
